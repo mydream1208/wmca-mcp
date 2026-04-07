@@ -1,0 +1,11 @@
+# MCP 서버
+mcp[cli]
+
+# 환경변수 로드 (.env 파일)
+python-dotenv
+
+# Win32 API (Windows 전용)
+pywin32
+
+# PyQt5 GUI (app.py 사용 시)
+PyQt5
