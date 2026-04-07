@@ -93,21 +93,6 @@ python mcp_server.py
 }
 ```
 
-### Claude Desktop (`claude_desktop_config.json`)
-
-`%APPDATA%\Claude\claude_desktop_config.json` 에 추가:
-
-```json
-{
-  "mcpServers": {
-    "wmca": {
-      "command": "python",
-      "args": ["C:/절대경로/mcp_server.py"]
-    }
-  }
-}
-```
-
 ### MCP Inspector (테스트용)
 
 ```bash

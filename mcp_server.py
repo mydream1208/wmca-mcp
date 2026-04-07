@@ -33,15 +33,6 @@ Claude Code CLI 등록 (.mcp.json):
       }
     }
 
-Claude Desktop 등록 (claude_desktop_config.json):
-    {
-      "mcpServers": {
-        "wmca": {
-          "command": "python",
-          "args": ["C:/path/to/mcp_server.py"]
-        }
-      }
-    }
 ─────────────────────────────────────────────────────────────────────────────
 """
 
